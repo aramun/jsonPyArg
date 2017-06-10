@@ -1,0 +1,37 @@
+{
+    "description":"prova json commands",
+    "args":{
+        "build":{
+            "description":"Build action",
+            "args":{
+                "all":{},
+                "mycontainer1":{}
+            }
+        },
+        "createProject":{
+            "description":"",
+            "args":{
+                "all":{},
+                "mycontainer1":{}
+            }
+        },
+        "update":{
+            "description":"",
+            "args":{
+                "all":{},
+                "mycontainer1":{}
+            }
+        },
+        "whereismyelement":{
+            "description":"",
+            "args":{
+                "pages":{
+                    "args":{
+                        "index":{}
+                    }
+                }
+            }
+            
+        }
+    }
+}
